@@ -29,11 +29,11 @@
 1.  Importing necessary libraries
 2.  Data Exploration
 3.  Data Modeling
-  - Without balancing the data
-    - Train and evaluate Random Forest Classifier
-  - Balancing the dataset using SMOTE
-    - Train and evaluate Random Forest Classifier
-    - Train and evaluate XGBoost Classifier
-    - Train and evaluate AdaBoost Classifier
-    - ROC Curve
+    - Without balancing the data
+      - Train and evaluate Random Forest Classifier
+    - Balancing the dataset using SMOTE
+      - Train and evaluate Random Forest Classifier
+      - Train and evaluate XGBoost Classifier
+      - Train and evaluate AdaBoost Classifier
+      - ROC Curve
 4.  Comparison of various models
